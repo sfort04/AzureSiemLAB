@@ -1,4 +1,4 @@
-![image](https://github.com/sfort04/AzureSiemLAB/assets/46600225/81003547-223a-42d9-922c-0cf156117164)<h1>Failed RDP to IP Geolocation Information</h1>
+<h1>Failed RDP to IP Geolocation Information</h1>
 
 
  ### [YouTube Demonstration (@16:20)](https://youtu.be/RoZeVbbZ0o0?t=980)
