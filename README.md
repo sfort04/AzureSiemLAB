@@ -29,7 +29,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from Paraguay coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://github.com/sfort04/AzureSiemLAB/assets/46600225/b4257d6e-d291-4e03-9ba8-bb1f20bbd417" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://github.com/sfort04/AzureSiemLAB/assets/46600225/437f0488-c128-4797-8eba-5bdc7e4d2cef" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
 <h2>World map of incoming attacks after finishing lab (built custom logs including geodata)</h2>
